@@ -10,7 +10,8 @@ public class Movement : MonoBehaviour
  
 
   //jump
-    
+    //sejt
+    //sejt
  
 
     void Start()
