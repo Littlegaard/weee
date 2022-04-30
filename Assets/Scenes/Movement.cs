@@ -7,7 +7,6 @@ public class Movement : MonoBehaviour
 {
     //movement
   public float Movementspeed = 10;
- 
 
   //jump
     //sejt
